@@ -1,5 +1,7 @@
 # Search Intent MCP
 
+[![smithery badge](https://smithery.ai/badge/@captainChaozi/search-intent-mcp)](https://smithery.ai/server/@captainChaozi/search-intent-mcp)
+
 请通过 https://aisearchintent.com 获取 API key
 
 这是一个基于 MCP (Model Context Protocol) 的搜索意图分析服务。它可以帮助分析用户搜索关键词的意图，为 SEO 分析提供支持。
@@ -13,6 +15,14 @@
 - 提供搜索建议
 
 ## 使用方法
+
+### Installing via Smithery
+
+To install Search Intent Analysis Service for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@captainChaozi/search-intent-mcp):
+
+```bash
+npx -y @smithery/cli install @captainChaozi/search-intent-mcp --client claude
+```
 
 ### claude 安装
 
